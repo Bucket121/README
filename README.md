@@ -4,10 +4,9 @@
 ----------------
 
        OS  :  Wnd
-     Name  :  Insxnia
-Something  :  Game Hacking & Unity
-      Dev  : C++ & C# 
- Learning  : Reverse Engineer
+     Name  :  Bucket
+Something  :  Game Hacking 
+ Learning  : C++ & Reverse Engineer
 
     
 ----------------
