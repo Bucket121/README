@@ -7,6 +7,7 @@
      Name  :  Bucket
 Something  :  Game Hacking 
  Learning  : C++ & Reverse Engineer
+    Buddy  : Insxnia
 
     
 ----------------
